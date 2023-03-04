@@ -1,9 +1,9 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- Sebastian Hofland
+- Sebastian Hejberg
+- Bertam Illum Lindegren Pedersen 
 
 This repository contains  
 1. Inaugural project. 
