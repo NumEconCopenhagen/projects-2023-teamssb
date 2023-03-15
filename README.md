@@ -4,6 +4,7 @@
 - Sebastian Hofland
 - Sebastian Hejberg
 - Bertam Illum Lindegren Pedersen 
+- STH skal lige se om den kan opdatere. Det virker ikke rigtigt det her...
 
 This repository contains  
 1. Inaugural project 2023. 
