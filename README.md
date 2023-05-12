@@ -5,7 +5,7 @@
 - Sebastian Hejberg
 - Bertam Illum Lindegren Pedersen 
 
-This repository contains  
+This repository contains our  
 1. Inaugural project about time use of couples. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
-3. Model project.
+2. Data project about collecting and presenting data about the expenses and number of employees over time in the Danish Regions.
+3. Model project about modelling the simple dynamic Malthusian model. 
