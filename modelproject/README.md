@@ -1,6 +1,7 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **A simple dynamic Malthusian model** and is about modelling the dynamics and microfoundations of a Malthusian economy,
+which is an important macro model used to describe stagnation before the growth era.
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
